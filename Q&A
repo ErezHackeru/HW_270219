@@ -1,0 +1,5 @@
+1) operator overloading means redefine or overload an existing operator in C#. 
+2) we can look at the dot net code thru dotkeep
+3) if == is implemented we must implement != also
+4) ReferenceEqual
+5) we check that the parameter is not null because we want to prevent exception that there is no data in this parameter.
